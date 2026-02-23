@@ -56,7 +56,7 @@ The dataset contains information about Ford cars, including:
 
 -> Scikit-learn (Machine Learning)
 
--> Jupyter Notebook
+
 
 
 📈 Model Performance
